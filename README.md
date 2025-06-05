@@ -1,6 +1,6 @@
-📜 This is a minimalistic habit tracker website for aiding in the daily tracking of habits.
+📜 **This is a minimalistic habit tracker website for aiding in the daily tracking of habits.**
 
-📋 Project features
+📋 _Project features_
 - tracking daily habits;
 - persistence of habits using local storage;
 - automatic reset of habit completion status at the start of a new day;
@@ -9,17 +9,17 @@
 - display of the current date;
 - adaptive design.
 
-🛠️ Technologies
+🛠️ _Technologies_
 - HTML5;
 - CSS3;
 - Vanilla JavaScript;
 - Web Storage API (localStorage).
   
-🔧 Opportunities for development
+🔧 _Opportunities for development_
 - editing existing habits;
 - tracking habit streaks;
 - user accounts and synchronization across devices;
 - categorization of habits.
   
-🚀 Launch recommendations
+🚀 _Launch recommendations_
 - open index.html in your browser.
